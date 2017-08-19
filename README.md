@@ -1,6 +1,24 @@
-kayac-html5-starter
+CLにいくぞう
 ====
 
+## 課題
+`preview.png` を参考に1ページつくる(PCのみ)
+
+### 含まれる要素
+- 基本的なマークアップ習得
+- グローバルナビ
+- カルーセル
+
+### 使えそうなライブラリ
+- [Font Awesome, the iconic font and CSS toolkit](http://fontawesome.io/)
+  - 汎用的なアイコン
+- [slick \- the last carousel you'll ever need](http://kenwheeler.github.io/slick/)
+  - カルーセル作るときによく使う
+
+### そのた
+- 画像はすきなものをいれてくだされ
+
+based by kayac-html5-starter
 ## 事前に用意するもの
 - node.js (version 5.0.0以上)
 
